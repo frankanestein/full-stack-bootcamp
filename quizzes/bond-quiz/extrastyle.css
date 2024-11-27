@@ -7,6 +7,10 @@
     flex-wrap: wrap;
 }
 
+.hidden {
+    display: none;
+}
+
 .card {
     width: 10rem;
 }
